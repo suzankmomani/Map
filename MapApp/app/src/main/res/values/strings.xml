@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DopravoApp</string>
+    <string name="title_activity_main">Map</string>
+    <string name="search_hint">Search..</string>
+    <string name="no_match_found">No match found</string>
+    <string name="search_title">Search</string>
+    <string name="blank_activity">Blank Screen</string>
+
+    <array name="drawer">
+        <item>Your places</item>
+        <item>your timeline</item>
+        <item>your contribution</item>
+        <item>Settings</item>
+    </array>
+</resources>
